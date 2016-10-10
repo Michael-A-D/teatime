@@ -29,6 +29,9 @@ info[rooibos]="90$celsius | 5' $clock | $moon"
 timer[tigre]=270
 info[tigre]="90$celsius | 4-5' $clock | $sun"
 
+timer[moines]=180
+info[moines]="95$celsius | 3' $clock | $sun"
+
 notify (){
     title=$1
     message=$2
