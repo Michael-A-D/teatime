@@ -26,6 +26,9 @@ info[sencha]="60$celsius | 1'-2' $clock | $sun"
 timer[rooibos]=300
 info[rooibos]="90$celsius | 5' $clock | $moon"
 
+timer[tigre]=270
+info[tigre]="90$celsius | 4-5' $clock | $sun"
+
 notify (){
     title=$1
     message=$2
